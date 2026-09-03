@@ -1,2 +1,4 @@
+# Public Spending in New York Towns Study
+### An empirical investigation into the causal determinants of local government spending across New York towns, examining the relative impact of local tax revenue versus intergovernmental aid on fiscal outcomes over a ten year period.
 Hi! 
 This is my first big econometrics project that I actually recorded. (https://wwe1.osc.state.ny.us/localgov/findata/financial-data-for-local-governments.cfm) was where I got my data, its the office of the state comptroller which looks at financial data for all NY town from 1995-2023. In "detailed account-level data" (Scroll down on the link) I selected "Revenue, Expenditure and Balance Sheet Data" then, "Single Class of Government for All Years" and then "Town" in the dropdown menu, after which I downloaded all of the data in a zip file.
