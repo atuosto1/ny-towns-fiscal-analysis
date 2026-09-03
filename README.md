@@ -1,22 +1,22 @@
 # Public Spending in New York Towns Study
 ##### An empirical investigation into whether local government spending across New York towns is driven more by local tax revenue or intergovernmental aid, measured across three distinct spending categories.
 
-### Overview
+## Overview
 ##### This project examines the determinants of local government spending across 914 New York towns over a ten year period from 2013 to 2023. Using panel data from the New York State Comptroller's Office, I estimate the causal impact of federal aid, state aid, and local tax revenue on three spending outcomes — general government spending, public safety, and social services — while controlling for unobserved town and time level heterogeneity through two-way fixed effects. Results suggest that the primary driver of spending varies meaningfully across categories, with intergovernmental aid dominating general government and social services spending while local taxes are the primary driver of public safety expenditures.
 
-### Data
-#### Source: 
+## Data
+### Source: 
 ##### Office of the New York State Comptroller, Local Government Data (Financial Data for Local Governments) [Data Link](https://wwe1.osc.state.ny.us/localgov/findata/financial-data-for-local-governments.cfm)
-#### Time Period: 
+### Time Period: 
 ##### 2013 to 2023
-#### Sample Size: 
+### Sample Size: 
 ##### 9,941 observations across 914 NY Towns
-#### Key Variables(refer to presentation for additional descriptive examples): 
-##### Town Income:
+### Key Variables (refer to presentation for additional descriptive examples): 
+#### Town Income:
 ###### fed_aid - total federal aid received by town (Sanitation, Economic Development, Transportation)
 ###### state_aid - total state aid received by town (Education, Health, Public Safety)
 ###### local_taxes - total local tax revenue (Property, Sales, and Non-Property taxes)
-##### Town Expenditures:
+#### **Town Expenditures**:
 ###### gen_gov - total expenditures on general government needs (Administration, Zoning/Planning, Operations)
 ###### public_safety - total expenditures on public safety services (Police, Fire, EMS)
 ###### social_services - total expenditures on public assistance programs (Medicaid, Financial Assistance, Youth Services)
