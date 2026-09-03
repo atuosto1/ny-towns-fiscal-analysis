@@ -16,7 +16,7 @@
 ###### fed_aid - total federal aid received by town (Sanitation, Economic Development, Transportation)
 ###### state_aid - total state aid received by town (Education, Health, Public Safety)
 ###### local_taxes - total local tax revenue (Property, Sales, and Non-Property taxes)
-#### **Town Expenditures**:
+#### *Town Expenditures*:
 ###### gen_gov - total expenditures on general government needs (Administration, Zoning/Planning, Operations)
 ###### public_safety - total expenditures on public safety services (Police, Fire, EMS)
 ###### social_services - total expenditures on public assistance programs (Medicaid, Financial Assistance, Youth Services)
