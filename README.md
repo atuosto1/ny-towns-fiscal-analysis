@@ -6,7 +6,8 @@
 
 ## Data
 ### Source: 
-##### Office of the New York State Comptroller, Local Government Data (Financial Data for Local Governments) [Data Link](https://wwe1.osc.state.ny.us/localgov/findata/financial-data-for-local-governments.cfm) For definitions of certain expenditures I used the corresponding [Glossary](https://wwe2.osc.state.ny.us/transparency/LocalGov/LocalGovGlossary.cfm)
+##### Office of the New York State Comptroller, Local Government Data (Financial Data for Local Governments) [Link to Data](https://wwe1.osc.state.ny.us/localgov/findata/financial-data-for-local-governments.cfm) 
+##### For definitions of certain expenditures I used the corresponding [Glossary](https://wwe2.osc.state.ny.us/transparency/LocalGov/LocalGovGlossary.cfm)
 ### Time Period: 
 ##### 2013 to 2023
 ### Sample Size: 
