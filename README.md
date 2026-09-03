@@ -24,7 +24,7 @@
 
 ## Methodology
 ### Step 1: Panel Data Construction
-##### Appended annual, cross-sectional files into a single panel dataset in STATA. Panel showed each entity's (town) income and expenditure data over 10 years. 
+##### Appended annual, cross-sectional files into a single panel dataset in STATA. Panel showed each entity's (town) income and expenditure data over 10 years. Since it was only 10 files I decided to convert each .csv file to .dta files by hand, however I would create a loop if expanding this project again.
 ### Step 2: 
 
 
