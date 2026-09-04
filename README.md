@@ -41,17 +41,19 @@ Explain
 Explain
 <img width="1059" height="358" alt="image" src="https://github.com/user-attachments/assets/45817ad7-6ae9-4042-8ed5-00966534332c" />
 
-### Step 5: Random Effects Regression
+### Step 5: Random Effects Regression + Fixed Effects Regressions (without and with clustered standard errors) 
 Explain
+<img width="1082" height="452" alt="image" src="https://github.com/user-attachments/assets/28e3500f-0735-4141-9ecc-6ae052e5090d" />
 
-### Step 6: Fixed Effects without and with cluster Standard Errors
-Explain
 
 ### Step 7: Remaining Regressions
 Explain
+<img width="1082" height="452" alt="image" src="https://github.com/user-attachments/assets/66bd7f3f-4bbc-4d06-ae68-935d1a6ec096" />
 
 ### Step 8: Graphs
 Explain
+<img width="1082" height="446" alt="image" src="https://github.com/user-attachments/assets/e685594c-6f53-4bf2-bf31-29801130619d" />
+<img width="1082" height="467" alt="image" src="https://github.com/user-attachments/assets/e9b5c942-f5c1-4353-b85c-3bc741d49ab0" />
 
 
 ## Findings
