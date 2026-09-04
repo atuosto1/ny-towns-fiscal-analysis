@@ -25,13 +25,16 @@ For definitions of certain expenditures I used the corresponding [Glossary](http
 
 ## Methodology
 ### Step 1: Panel Data Construction
-##### Appended annual, cross-sectional files into a single panel dataset in STATA. Panel showed each entity's (town) income and expenditure data over 11 years. Since it was only 11 files I decided to convert each .csv file to .dta files by hand, however I would create a loop if expanding this project again.
+Appended annual, cross-sectional files into a single panel dataset in STATA. Panel showed each entity's (town) income and expenditure data over 11 years. Since it was only 11 files I decided to convert each .csv file to .dta files by hand, however I would create a loop if expanding this project again.
 <img width="1059" height="573" alt="image" src="https://github.com/user-attachments/assets/d6bd2d46-e134-4098-8648-1e8ef6509363" />
+Screenshot 1.1
 
 ### Step 2: Encoding Variables
-Explain here
+Since the variables were coded as a string, I needed to encode them within STATA (see Screenshot 2.1 Below)
 <img width="1059" height="573" alt="image" src="https://github.com/user-attachments/assets/d070e96a-0067-416b-8a73-2110b75fd600" />
+Screenshot 2.1
 <img width="1059" height="285" alt="image" src="https://github.com/user-attachments/assets/02453c6c-314f-45b3-adb5-884e4f3b654b" />
+Screenshot 2.2
 
 ### Step 3: Collapse/Reshape Data
 Explain
@@ -60,7 +63,7 @@ Explain
 ##### Explain here
 
 ## How to Reproduce
-### REQUIREMENTS:
+### Requirements:
 ##### Stata requirements
 
 ## Planned Extensions
