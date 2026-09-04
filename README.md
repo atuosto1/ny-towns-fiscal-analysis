@@ -31,16 +31,27 @@
 ### Step 2: Encoding Variables
 ##### Explain here
 <img width="1059" height="573" alt="image" src="https://github.com/user-attachments/assets/d070e96a-0067-416b-8a73-2110b75fd600" />
+<img width="1059" height="285" alt="image" src="https://github.com/user-attachments/assets/02453c6c-314f-45b3-adb5-884e4f3b654b" />
 
 ### Step 3: Collapse/Reshape Data
 ##### Explain
+<img width="1059" height="227" alt="image" src="https://github.com/user-attachments/assets/8e38dead-4dfd-4d70-b6b0-844adf34e186" />
 
 ### Step 4: Create Necessary Variables & Declare Panel
-### Step 5: Random Effects Regression
-### Step 6: Fixed Effects without and with cluster Standard Errors
-### Step 7: Remaining Regressions
-### Step 8: Graphs
+##### Explain
+<img width="1059" height="358" alt="image" src="https://github.com/user-attachments/assets/45817ad7-6ae9-4042-8ed5-00966534332c" />
 
+### Step 5: Random Effects Regression
+##### Explain
+
+### Step 6: Fixed Effects without and with cluster Standard Errors
+##### Explain
+
+### Step 7: Remaining Regressions
+##### Explain
+
+### Step 8: Graphs
+##### Explain
 
 
 ## Findings
