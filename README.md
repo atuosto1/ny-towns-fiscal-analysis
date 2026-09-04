@@ -26,13 +26,15 @@
 ## Methodology
 ### Step 1: Panel Data Construction
 ##### Appended annual, cross-sectional files into a single panel dataset in STATA. Panel showed each entity's (town) income and expenditure data over 11 years. Since it was only 11 files I decided to convert each .csv file to .dta files by hand, however I would create a loop if expanding this project again.
-<img width="1251" height="516" alt="image" src="https://github.com/user-attachments/assets/d2e1d833-dc05-4ec7-9de6-c7689d6980ba" />
+<img width="1059" height="573" alt="image" src="https://github.com/user-attachments/assets/d6bd2d46-e134-4098-8648-1e8ef6509363" />
 
 ### Step 2: Encoding Variables
 ##### Explain here
-<img width="1774" height="602" alt="image" src="https://github.com/user-attachments/assets/28d51868-ef99-41bc-9390-2cd5ca9e3aa0" />
+<img width="1059" height="573" alt="image" src="https://github.com/user-attachments/assets/d070e96a-0067-416b-8a73-2110b75fd600" />
 
 ### Step 3: Collapse/Reshape Data
+##### Explain
+
 ### Step 4: Create Necessary Variables & Declare Panel
 ### Step 5: Random Effects Regression
 ### Step 6: Fixed Effects without and with cluster Standard Errors
