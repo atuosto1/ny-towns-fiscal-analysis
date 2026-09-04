@@ -9,9 +9,9 @@
 ##### Office of the New York State Comptroller, Local Government Data (Financial Data for Local Governments) [Link to Data](https://wwe1.osc.state.ny.us/localgov/findata/financial-data-for-local-governments.cfm) 
 ##### For definitions of certain expenditures I used the corresponding [Glossary](https://wwe2.osc.state.ny.us/transparency/LocalGov/LocalGovGlossary.cfm)
 ### Time Period: 
-##### 2013 to 2023
+##### 2013 to 2023 (11 measured years)
 ### Sample Size: 
-##### 9,941 observations across 914 NY Towns
+##### 9,981 observations across 914 NY Towns
 ### Key Variables (refer to presentation for additional descriptive examples): 
 #### Town Income:
 ##### fed_aid - total federal aid received by town (Sanitation, Economic Development, Transportation)
