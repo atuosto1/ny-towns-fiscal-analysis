@@ -33,7 +33,6 @@ Appended annual, cross-sectional files into a single panel dataset in STATA. Pan
 Since the variables were coded as a string, I needed to encode them within STATA (see Screenshot 2.1 Below)
 <img width="1059" height="573" alt="image" src="https://github.com/user-attachments/assets/d070e96a-0067-416b-8a73-2110b75fd600" />
 #### Screenshot 2.1
-
 <img width="1059" height="285" alt="image" src="https://github.com/user-attachments/assets/02453c6c-314f-45b3-adb5-884e4f3b654b" />
 #### Screenshot 2.2
 
