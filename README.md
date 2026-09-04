@@ -31,7 +31,7 @@ Appended annual, cross-sectional files into a single panel dataset in STATA. Pan
 #### Screenshot 1.1
 
 ### Step 2: Encoding Variables
-Since the variables were coded as a string, I needed to encode them within STATA (see Screenshot 2.1 Below)
+Since the variables were coded as a string, I needed to encode them within STATA. Additionally, I checked how the variables were coded to see which values corresponded with expenditures and revenues, dropped any values that were not expenditures or revenues, saw the coding of the variables once more, dropped any labels that were missing, and then dropped any redundant variables.
 <img width="1059" height="573" alt="image" src="https://github.com/user-attachments/assets/d070e96a-0067-416b-8a73-2110b75fd600" />
 
 #### Screenshot 2.1
