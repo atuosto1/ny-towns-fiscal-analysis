@@ -28,7 +28,13 @@
 ##### Appended annual, cross-sectional files into a single panel dataset in STATA. Panel showed each entity's (town) income and expenditure data over 11 years. Since it was only 11 files I decided to convert each .csv file to .dta files by hand, however I would create a loop if expanding this project again.
 <img width="1251" height="516" alt="image" src="https://github.com/user-attachments/assets/d2e1d833-dc05-4ec7-9de6-c7689d6980ba" />
 
-### Step 2: 
+### Step 2: Encoding Variables
+### Step 3: Collapse/Reshape Data
+### Step 4: Create Necessary Variables & Declare Panel
+### Step 5: Random Effects Regression
+### Step 6: Fixed Effects without and with cluster Standard Errors
+### Step 7: Remaining Regressions
+### Step 8: Graphs
 
 
 
