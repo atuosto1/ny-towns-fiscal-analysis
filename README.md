@@ -51,7 +51,7 @@
 ## Planned Extensions
 ##### Explain
 
-##### This project was conducted as a final for ECO 385 at Pace University (Dyson College of Arts and Sciences). Data sourced from the Office of the New York State Comptroller Local Government Bulk Data portal.
+This project was conducted as a final for ECO 385 at Pace University (Dyson College of Arts and Sciences). Data sourced from the Office of the New York State Comptroller Local Government Bulk Data portal.
 
 
 
