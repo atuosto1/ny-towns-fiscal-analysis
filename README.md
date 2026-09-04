@@ -29,6 +29,9 @@
 <img width="1251" height="516" alt="image" src="https://github.com/user-attachments/assets/d2e1d833-dc05-4ec7-9de6-c7689d6980ba" />
 
 ### Step 2: Encoding Variables
+##### Explain here
+<img width="1774" height="602" alt="image" src="https://github.com/user-attachments/assets/28d51868-ef99-41bc-9390-2cd5ca9e3aa0" />
+
 ### Step 3: Collapse/Reshape Data
 ### Step 4: Create Necessary Variables & Declare Panel
 ### Step 5: Random Effects Regression
@@ -36,6 +39,19 @@
 ### Step 7: Remaining Regressions
 ### Step 8: Graphs
 
+
+
+## Findings
+##### Explain here
+
+## How to Reproduce
+### REQUIREMENTS:
+##### Stata requirements
+
+## Planned Extensions
+##### Explain
+
+##### This project was conducted as a final for ECO 385 at Pace University (Dyson College of Arts and Sciences). Data sourced from the Office of the New York State Comptroller Local Government Bulk Data portal.
 
 
 
