@@ -27,36 +27,43 @@ For definitions of certain expenditures I used the corresponding [Glossary](http
 ### Step 1: Panel Data Construction
 Appended annual, cross-sectional files into a single panel dataset in STATA. Panel showed each entity's (town) income and expenditure data over 11 years. Since it was only 11 files I decided to convert each .csv file to .dta files by hand, however I would create a loop if expanding this project again.
 <img width="1059" height="573" alt="image" src="https://github.com/user-attachments/assets/d6bd2d46-e134-4098-8648-1e8ef6509363" />
-Screenshot 1.1
+#### Screenshot 1.1
 
 ### Step 2: Encoding Variables
 Since the variables were coded as a string, I needed to encode them within STATA (see Screenshot 2.1 Below)
 <img width="1059" height="573" alt="image" src="https://github.com/user-attachments/assets/d070e96a-0067-416b-8a73-2110b75fd600" />
-Screenshot 2.1
+#### Screenshot 2.1
+
 <img width="1059" height="285" alt="image" src="https://github.com/user-attachments/assets/02453c6c-314f-45b3-adb5-884e4f3b654b" />
-Screenshot 2.2
+#### Screenshot 2.2
 
 ### Step 3: Collapse/Reshape Data
 Explain
 <img width="1059" height="227" alt="image" src="https://github.com/user-attachments/assets/8e38dead-4dfd-4d70-b6b0-844adf34e186" />
+#### Screenshot 3.1
 
 ### Step 4: Create Necessary Variables & Declare Panel
 Explain
 <img width="1059" height="358" alt="image" src="https://github.com/user-attachments/assets/45817ad7-6ae9-4042-8ed5-00966534332c" />
+#### Screenshot 4.1
 
 ### Step 5: Random Effects Regression + Fixed Effects Regressions (without and with clustered standard errors) 
 Explain
 <img width="1082" height="452" alt="image" src="https://github.com/user-attachments/assets/28e3500f-0735-4141-9ecc-6ae052e5090d" />
+#### Screenshot 5.1
 
-
-### Step 7: Remaining Regressions
+### Step 6: Remaining Regressions
 Explain
 <img width="1082" height="452" alt="image" src="https://github.com/user-attachments/assets/66bd7f3f-4bbc-4d06-ae68-935d1a6ec096" />
+#### Screenshot 6.1
 
-### Step 8: Graphs
+### Step 7: Graphs
 Explain
 <img width="1082" height="446" alt="image" src="https://github.com/user-attachments/assets/e685594c-6f53-4bf2-bf31-29801130619d" />
+#### Screenshot 7.1
+
 <img width="1082" height="467" alt="image" src="https://github.com/user-attachments/assets/e9b5c942-f5c1-4353-b85c-3bc741d49ab0" />
+#### Screenshot 7.2
 
 
 ## Findings
