@@ -35,7 +35,7 @@ Since the variables were coded as a string, I needed to encode them within STATA
 #### Screenshot 2.1
 
 <img width="1059" height="285" alt="image" src="https://github.com/user-attachments/assets/02453c6c-314f-45b3-adb5-884e4f3b654b" />
-#### Screenshot 2.2
+### Screenshot 2.2
 
 ### Step 3: Collapse/Reshape Data
 Explain
