@@ -14,9 +14,9 @@ For definitions of certain expenditures I used the corresponding [Glossary](http
 9,981 observations across 914 NY Towns
 ### Key Variables (refer to presentation for additional descriptive examples): 
 #### Town Income:
-##### fed_aid - total federal aid received by town (Sanitation, Economic Development, Transportation)
-##### state_aid - total state aid received by town (Education, Health, Public Safety)
-##### local_taxes - total local tax revenue (Property, Sales, and Non-Property taxes)
+**fed_aid -** total federal aid received by town (Sanitation, Economic Development, Transportation)
+**state_aid -** total state aid received by town (Education, Health, Public Safety)
+**local_taxes -** total local tax revenue (Property, Sales, and Non-Property taxes)
 #### **Town Expenditures**:
 ##### gen_gov - total expenditures on general government needs (Administration, Zoning/Planning, Operations)
 ##### public_safety - total expenditures on public safety services (Police, Fire, EMS)
