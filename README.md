@@ -64,7 +64,7 @@ Explain
 #### Screenshot 6.1
 
 ### Step 7: Graphs
-Plotting some graphs helped to see the trend for each of the three dependent variables' over time. A scatter plot showed each individual data point, and an lfit line where spending was averaged for each year proved to show the overall trend clearer.
+Plotting some graphs helped to see the trend for each of the three dependent variables over time. A scatter plot showed each individual data point, and an lfit line where spending was averaged for each year proved to show the overall trend clearer.
 <img width="1082" height="446" alt="image" src="https://github.com/user-attachments/assets/e685594c-6f53-4bf2-bf31-29801130619d" />
 #### Screenshot 7.1
 
