@@ -40,13 +40,13 @@ Since the variables were coded as a string, I needed to encode them within STATA
 ##### Screenshot 2.2
 
 ### Step 3: Collapse/Reshape Data
-Explain
+Initially my data was very long (multiple entries for a given town and year) so I collapsed each revenue and expenditure category into a single item for each entry. Then, I  looked to see how it was coded before reshaping it so that each town and year combination  corresponded to one line full of all of the revenue and expenditure categories. 
 <img width="1059" height="227" alt="image" src="https://github.com/user-attachments/assets/8e38dead-4dfd-4d70-b6b0-844adf34e186" />
 
 #### Screenshot 3.1
 
 ### Step 4: Create Necessary Variables & Declare Panel
-Explain
+After reshaping my data, I renamed each of the variables into intuitive names instead of "column 1, column 2, etc." I then generated a variable to sum all the different streams of local tax revenue (local_taxes) and declared to STATA that panel data was being used.
 <img width="1059" height="358" alt="image" src="https://github.com/user-attachments/assets/45817ad7-6ae9-4042-8ed5-00966534332c" />
 
 #### Screenshot 4.1
@@ -64,7 +64,7 @@ Explain
 #### Screenshot 6.1
 
 ### Step 7: Graphs
-Explain
+Plotting some graphs helped to see the trend for each of the three dependent variables' over time. A scatter plot showed each individual data point, and an lfit line where spending was averaged for each year proved to show the overall trend clearer.
 <img width="1082" height="446" alt="image" src="https://github.com/user-attachments/assets/e685594c-6f53-4bf2-bf31-29801130619d" />
 #### Screenshot 7.1
 
