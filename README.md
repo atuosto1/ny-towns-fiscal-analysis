@@ -46,7 +46,7 @@ Initially my data was very long (multiple entries for a given town and year) so 
 #### Screenshot 3.1
 
 ### Step 4: Create Necessary Variables & Declare Panel
-After reshaping my data, I renamed each of the variables into intuitive names instead of "column 1, column 2, etc." I then generated a variable to sum all the different streams of local tax revenue (local_taxes) and declared to STATA that panel data was being used.
+After reshaping my data, I renamed each of the variables into intuitive names. I then generated a variable to sum all the different streams of local tax revenue (local_taxes) and declared to STATA that panel data was being used.
 <img width="1059" height="358" alt="image" src="https://github.com/user-attachments/assets/45817ad7-6ae9-4042-8ed5-00966534332c" />
 
 #### Screenshot 4.1
