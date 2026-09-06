@@ -52,13 +52,16 @@ After reshaping my data, I renamed each of the variables into intuitive names. I
 #### Screenshot 4.1
 
 ### Step 5: Random Effects Regression + Fixed Effects Regressions (without and with clustered standard errors) 
-Explain
+The initial random effects regression was done to see the overall average effect that federal/state aid and local taxes had on general government spending. I then ran a two way fixed effects model without clustered standard errors to see how general government spending would be affected while accounting for variations within units (unit fixed effects) and variations across all units for a given time (time fixed effects). I then clustered my standard errors to more accurately estimate the value of them, as clustering accounts for the correlation within general government spending within units: for example one town may consistently spend more than another town, without clustered standard errors this consistent excess spending is treated as multiple entries and ultimately undervalues our standard errors, despite not changing the coefficient of each independent variable. Not clustering may produce inaccurate T-statistics and could ultimately skew interpretation of the coefficients. (See screenshot 5.2, red shows unchanged coefficients, blue shows changed standard errors)
 <img width="1082" height="452" alt="image" src="https://github.com/user-attachments/assets/28e3500f-0735-4141-9ecc-6ae052e5090d" />
 
 #### Screenshot 5.1
 
+<img width="671" height="247" alt="image" src="https://github.com/user-attachments/assets/cc85ab7b-4a26-47b6-9499-60aa36564abc" />
+#### Screenshot 5.2
+
 ### Step 6: Remaining Regressions
-Explain
+The remaining regressions 
 <img width="1082" height="452" alt="image" src="https://github.com/user-attachments/assets/66bd7f3f-4bbc-4d06-ae68-935d1a6ec096" />
 
 #### Screenshot 6.1
