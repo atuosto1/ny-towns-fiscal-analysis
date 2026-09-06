@@ -77,12 +77,12 @@ Plotting some graphs helped to see the trend for each of the three dependent var
 #### Screenshot 7.2
 
 ## Findings
-##### Explain here
+My data revealed XYZ
 
 ## How to Reproduce
 ### Requirements:
 - Stata version 14 or higher
-- "estout" package (run following line if not installed -> ssc install estout, replace)
+- "estout" package needed for esttab and eststo functions (run following line if not installed -> ssc install estout, replace)
 ### Getting Data:
 I got my data from the Office of the New York State Comptroller's Local Government Bulk Financial Data (linked above and [here](https://wwe1.osc.state.ny.us/localgov/findata/financial-data-for-local-governments.cfm)). In "detailed account-level data" (Scroll down on the link) I selected "Revenue, Expenditure and Balance Sheet Data" then, "Single Class of Government for All Years" and then "Town" in the dropdown menu, after which I downloaded all of the data in a zip file and converted each .csv file to .dta (See methodology step 1). 
 
