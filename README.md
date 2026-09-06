@@ -76,19 +76,20 @@ Plotting some graphs helped to see the trend for each of the three dependent var
 
 #### Screenshot 7.2
 
-
 ## Findings
 ##### Explain here
 
 ## How to Reproduce
 ### Requirements:
-##### Stata requirements
+- Stata version 14 or higher
+- "estout" package (run following line if not installed -> ssc install estout, replace)
+### Getting Data:
+I got my data from the Office of the New York State Comptroller's Local Government Bulk Financial Data (linked above and [here](https://wwe1.osc.state.ny.us/localgov/findata/financial-data-for-local-governments.cfm)). In "detailed account-level data" (Scroll down on the link) I selected "Revenue, Expenditure and Balance Sheet Data" then, "Single Class of Government for All Years" and then "Town" in the dropdown menu, after which I downloaded all of the data in a zip file and converted each .csv file to .dta (See methodology step 1). 
 
 ## Planned Extensions
-##### Explain
+For the future I would like to include more geographical entities (towns) in my dataset. Whether that involves adding another state's towns or more years I would certainly expand my data in the future. An interesting expansion is to include all 50 states US town to see how spending patterns vary across states and different geographical regions. Another approach is to control for the following variables, with explanations included:
+- Total federal spending: My hypothesis is that as the federal government spends more, more of this money would be directed on providing aid to towns and would ultimately increase spending on general government, public safety, and social services. 
+- Town population: I hypothesize that for two towns, all else being equal, the town with a higher population will spend more on general government needs, public safety, and social services as a result of higher demand for these facilities resulting from a larger population. An alternative hypothesis could be that larger towns have more economic activity, which can contribute to more jobs, higher income, less wealth inequality and less crime, which may reduce the need for as much spending on public safety and social services (in this case I believe a higher population relates to more administrative work for a town and would result in higher general government spending). 
+- Median Income: My hypothesis is similar to that of the town population's alternative hypothesis. I hypothesize that if median income were higher, general government spending may not be impacted much, however, public safety and social services would see lesser spending than previously as public safety may not be as big of an issue in towns with less economic inequality. 
 
 This project was conducted as a final for ECO 385 at Pace University (Dyson College of Arts and Sciences). Data sourced from the Office of the New York State Comptroller Local Government Bulk Data portal.
-
-
-
-This is my first big econometrics project that I actually recorded. (https://wwe1.osc.state.ny.us/localgov/findata/financial-data-for-local-governments.cfm) was where I got my data, its the office of the state comptroller which looks at financial data for all NY town from 1995-2023. In "detailed account-level data" (Scroll down on the link) I selected "Revenue, Expenditure and Balance Sheet Data" then, "Single Class of Government for All Years" and then "Town" in the dropdown menu, after which I downloaded all of the data in a zip file.
