@@ -17,15 +17,15 @@ For definitions of certain expenditures I used the corresponding [Glossary](http
 **fed_aid -** total federal aid received by town (Sanitation, Economic Development, Transportation)
 **state_aid -** total state aid received by town (Education, Health, Public Safety)
 **local_taxes -** total local tax revenue (Property, Sales, and Non-Property taxes)
-#### **Town Expenditures**:
-##### gen_gov - total expenditures on general government needs (Administration, Zoning/Planning, Operations)
-##### public_safety - total expenditures on public safety services (Police, Fire, EMS)
-##### social_services - total expenditures on public assistance programs (Medicaid, Financial Assistance, Youth Services)
+#### Town Expenditures:
+**gen_gov -** total expenditures on general government needs (Administration, Zoning/Planning, Operations)
+**public_safety -** total expenditures on public safety services (Police, Fire, EMS)
+ **social_services -** total expenditures on public assistance programs (Medicaid, Financial Assistance, Youth Services)
 
 
 ## Methodology
 ### Step 1: Panel Data Construction
-Appended annual, cross-sectional files into a single panel dataset in STATA. Panel showed each entity's (town) income and expenditure data over 11 years. Since it was only 11 files I decided to convert each .csv file to .dta files by hand, however I would create a loop if expanding this project again.
+To begin I appended annual, cross-sectional files into a single panel dataset in STATA. Panel showed each entity's (town) income and expenditure data over 11 years. Since it was only 11 files I decided to convert each .csv file to .dta files by hand, however I would create a loop if expanding this project again.
 <img width="1059" height="573" alt="image" src="https://github.com/user-attachments/assets/d6bd2d46-e134-4098-8648-1e8ef6509363" />
 
 #### Screenshot 1.1
@@ -77,7 +77,15 @@ Plotting some graphs helped to see the trend for each of the three dependent var
 #### Screenshot 7.2
 
 ## Findings
-My data revealed XYZ
+
+<img width="359" height="560" alt="image" src="https://github.com/user-attachments/assets/77402b7f-3cf2-429a-acd4-77f7cc5ff363" />
+RE FE FEC
+
+
+<img width="359" height="560" alt="image" src="https://github.com/user-attachments/assets/55a02fb9-4bc1-4b94-a9aa-9fe6aacdbc99" />
+GEN_GOV,PUB_SAF,SOC_SERV
+
+ data revealed XYZ
 
 ## How to Reproduce
 ### Requirements:
@@ -91,5 +99,7 @@ For the future I would like to include more geographical entities (towns) in my 
 - Total federal spending: My hypothesis is that as the federal government spends more, more of this money would be directed on providing aid to towns and would ultimately increase spending on general government, public safety, and social services. 
 - Town population: I hypothesize that for two towns, all else being equal, the town with a higher population will spend more on general government needs, public safety, and social services as a result of higher demand for these facilities resulting from a larger population. An alternative hypothesis could be that larger towns have more economic activity, which can contribute to more jobs, higher income, less wealth inequality and less crime, which may reduce the need for as much spending on public safety and social services (in this case I believe a higher population relates to more administrative work for a town and would result in higher general government spending). 
 - Median Income: My hypothesis is similar to that of the town population's alternative hypothesis. I hypothesize that if median income were higher, general government spending may not be impacted much, however, public safety and social services would see lesser spending than previously as public safety may not be as big of an issue in towns with less economic inequality. 
+
+Additionally, I would improve my code to run more efficiently. After taking more Econometrics and Data Analysis classes I was able to see how inefficient it was to convert and append each of my yearly .csv files by hand. I could certainly expand the scope of my research if I made my code more efficient, but I am happy to use this as a reference for both my growth and ability now!
 
 This project was conducted as a final for ECO 385 at Pace University (Dyson College of Arts and Sciences). Data sourced from the Office of the New York State Comptroller Local Government Bulk Data portal.
