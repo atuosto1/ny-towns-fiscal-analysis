@@ -2,7 +2,7 @@
 An empirical investigation into whether local government spending across New York towns is driven more by local tax revenue or intergovernmental aid, measured across three distinct spending categories.
 
 ## Overview
-This project examines the determinants of local government spending across 914 New York towns over a ten year period from 2013 to 2023. Using panel data from the New York State Comptroller's Office, I estimate the causal impact of federal aid, state aid, and local tax revenue on three spending outcomes — general government spending, public safety, and social services — while controlling for unobserved town and time level heterogeneity through two-way fixed effects. Results suggest that the primary driver of spending varies meaningfully across categories, with intergovernmental aid dominating general government and social services spending while local taxes are the primary driver of public safety expenditures.
+This project examines the determinants of local government spending across 914 New York towns over a ten year period from 2013 to 2023. Using panel data from the New York State Comptroller's Office, I estimate the causal impact of federal aid, state aid, and local tax revenue on three spending outcomes (general government spending, public safety, and social services) while controlling for unobserved town and time level variations through two-way fixed effects. Results suggest that the primary driver of spending varies meaningfully across categories, with intergovernmental aid dominating general government and social services spending while local taxes being the primary driver of public safety expenditures.
 
 ## Data
 ### Source: 
@@ -62,7 +62,7 @@ The initial random effects regression was done to see the overall average effect
 #### Screenshot 5.2
 
 ### Step 6: Remaining Regressions
-The remaining regressions were conducted using the same two way fixed effects model 
+The remaining regressions (where public safety spending and social services spending are the dependent variables respectively) were conducted using the same two-way fixed effects model that was used for general government spending (with clustered standard errors).
 <img width="1082" height="452" alt="image" src="https://github.com/user-attachments/assets/66bd7f3f-4bbc-4d06-ae68-935d1a6ec096" />
 
 #### Screenshot 6.1
