@@ -79,6 +79,7 @@ Plotting some graphs helped to see the trend for each of the three dependent var
 ## Findings
 
 <img width="359" height="560" alt="image" src="https://github.com/user-attachments/assets/77402b7f-3cf2-429a-acd4-77f7cc5ff363" />
+
 The above table shows estimates from three panel regressions predicting general government spending. Column 1 shows a random effects model, column 2 shows a fixed effects model with conventional standard errors, and column 3 shows a fixed effects model with standard errors clustered by town.
 Within the random effects model, all of the sources of revenue are shown to be highly statistically significant (at the .1% confidence level). Once two way fixed effects are incorporated into the model, local taxes no longer become statistically significant (t statistic is < ~2) but both federal aid and state aid remain significant. 
 
